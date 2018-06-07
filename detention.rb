@@ -5,4 +5,6 @@ def initialize(first_name, last_name, age, grade)
   @first_name=first_name
   @last_name=last_name
   @age=age
+  @grade=grade
+  
   
