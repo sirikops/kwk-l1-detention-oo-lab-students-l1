@@ -8,4 +8,4 @@ def initialize(first_name, last_name, age, grade)
   @grade=grade
   
   student1 = Detention.new("Barry", "King", 17, 11)
-  student = Detention.new("Hannah", "Baker", 16, 10)
+  student2 = Detention.new("Hannah", "Baker", 16, 10)
