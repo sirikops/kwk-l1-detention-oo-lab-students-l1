@@ -7,4 +7,4 @@ def initialize(first_name, last_name, age, grade)
   @age=age
   @grade=grade
   
-  
+  student1
